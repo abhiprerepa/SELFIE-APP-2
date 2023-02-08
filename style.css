@@ -1,0 +1,28 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(38, 0, 255);
+}
+
+h1 {
+    font: bolder;
+    font-size: 39px;
+    width: 100%;
+}
+
+h4 {
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+}
+
+#result1,#result2,#result3 {
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(0, 242, 255);
+}
+
+img:hover {
+    border-radius: 100px;
+}
